@@ -1,4 +1,4 @@
-# capstone_vision_audio_alignment
+# Cross-Modal Representational Alignment in Vision and Audio Models
 Capstone Members: Natalie Abel, Alexis Ausland, Lauren Bolte, Morgan Mahre, Yaru Su\
 Faculty Advisor: Meenakshi Khosla
 
