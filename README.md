@@ -28,6 +28,6 @@ CSS M.S. Capstone exploring representational alignment between vision-only and a
 
 
 ## Poster Preview
-**[View the full academic poster here](capstone_presentation_poster.png)
+**[View the full academic poster here](capstone_presentation_poster.png)**
 
 <img src="capstone_presentation_poster.png" alt="Academic poster summarizing the project" width="800">
