@@ -17,11 +17,17 @@ CSS M.S. Capstone exploring representational alignment between vision-only and a
 
 ## Technologies
 - Python
-- PyTorch
 - NumPy
 - Pandas
+- PyTorch
 - Hugging Face Transformers
 - Stable Diffusion
 - SciPy
 - scikit-learn
 - Seaborn
+
+
+## Poster Preview
+**[View the full academic poster here](capstone_presentation_poster.png)
+
+<img src="capstone_presentation_poster.png" alt="Academic poster summarizing the project" width="800">
